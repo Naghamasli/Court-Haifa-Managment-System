@@ -1,0 +1,638 @@
+Exceptions.InvalidBirthDateException: The provided birth date is invalid.
+successfully added Accused 2
+successfully added Accused 3
+successfully added Accused 4
+successfully added Accused 5
+successfully added Accused 6
+successfully added Accused 7
+Accused details: Accused [id =7, FirstName=Laura, LastName=Neal, BirthDate=Sun Dec 13 00:00:00 IST 1998, Address=289  German Colony, PhoneNumber=001-403-137-9978x0498, Email=stevechandler@marks.com, Gender=F ,job=Jewellery designer]
+successfully added Accused 8
+successfully added Accused 9
+successfully added Accused 10
+successfully added Accused 11
+successfully added Accused 12
+successfully added Accused 13
+successfully added Accused 14
+successfully added Accused 15
+successfully added Accused 16
+successfully added Accused 17
+successfully added Accused 18
+successfully added Accused 19
+successfully added Accused 20
+Exceptions.PersonAlreadyExistException: Amy Jacobs already exists in the system, will not be added again.
+failed to add Accused 12
+successfully added Accused 22
+successfully added Accused 23
+successfully added Accused 24
+successfully added Accused 25
+successfully added judge 26
+successfully added judge 27
+successfully added judge 28
+successfully added judge 29
+successfully added judge 30
+successfully added judge 31
+successfully added judge 32
+successfully added judge 33
+successfully added judge 34
+successfully added judge 35
+successfully added judge 36
+successfully added judge 37
+successfully added judge 38
+successfully added judge 39
+successfully added judge 40
+successfully added judge 41
+successfully added judge 42
+Exceptions.PersonAlreadyExistException: Cynthia Kelly already exists in the system, will not be added again.
+failed to add judge 30
+successfully added judge 44
+successfully added judge 45
+successfully added judge 46
+Exceptions.InvalidBirthDateException: The provided birth date is invalid.
+successfully added judge 48
+successfully added judge 49
+successfully added judge 50
+successfully added employee 51
+successfully added employee 52
+successfully added employee 53
+successfully added employee 54
+successfully added employee 55
+successfully added employee 56
+successfully added employee 57
+successfully added employee 58
+successfully added employee 59
+successfully added employee 60
+successfully added employee 61
+successfully added employee 62
+successfully added employee 63
+successfully added employee 64
+Exceptions.PersonAlreadyExistException: William Delacruz already exists in the system, will not be added again.
+failed to add employee 51
+successfully added employee 66
+successfully added employee 67
+successfully added employee 68
+successfully added employee 69
+successfully added employee 70
+successfully added employee 71
+successfully added employee 72
+successfully added employee 73
+successfully added employee 74
+Exceptions.PersonAlreadyExistException: Jessica Jackson already exists in the system, will not be added again.
+failed to add employee 52
+successfully added lawyer 76
+successfully added lawyer 77
+successfully added lawyer 78
+successfully added lawyer 79
+successfully added lawyer 80
+successfully added lawyer 81
+lawyer details: Lawyer [id =81, FirstName=Cynthia, LastName=Byrd, BirthDate=Thu Apr 30 00:00:00 IDT 1998, Address=289  German Colony, PhoneNumber=641.306.7539x6346, Email=leenathaniel@gmail.com, Gender=FlicenseNumber= 7660, salary=56227.84]
+successfully added lawyer 82
+successfully added lawyer 83
+successfully added lawyer 84
+successfully added lawyer 85
+successfully added lawyer 86
+successfully added lawyer 87
+successfully added lawyer 88
+successfully added lawyer 89
+successfully added lawyer 90
+successfully added lawyer 91
+successfully added lawyer 92
+successfully added lawyer 93
+successfully added lawyer 94
+Exceptions.PersonAlreadyExistException: Kathy Nichols already exists in the system, will not be added again.
+failed to add lawyer 76
+successfully added lawyer 96
+successfully added lawyer 97
+successfully added lawyer 98
+Exceptions.InvalidBirthDateException: The provided birth date is invalid.
+successfully added department 100
+successfully added department 101
+successfully added department 102
+successfully added department 103
+successfully added department 104
+successfully added department 105
+successfully added department 106
+successfully added department 107
+successfully added department 108
+successfully added department 109
+successfully added Judge 26 to Department 100
+successfully added Judge 27 to Department 101
+successfully added Judge 28 to Department 102
+successfully added Judge 29 to Department 103
+successfully added Judge 30 to Department 104
+successfully added Judge 31 to Department 105
+successfully added Judge 32 to Department 106
+successfully added Judge 33 to Department 107
+successfully added Judge 34 to Department 108
+successfully added Judge 35 to Department 109
+successfully added Judge 36 to Department 100
+successfully added Judge 37 to Department 101
+successfully added Judge 38 to Department 102
+successfully added Judge 39 to Department 103
+successfully added Judge 40 to Department 100
+successfully added Judge 41 to Department 101
+successfully added Judge 42 to Department 102
+failed to add Judge 43 to Department 107
+successfully added Judge 44 to Department 108
+successfully added Judge 45 to Department 109
+successfully added Judge 46 to Department 100
+failed to add Judge 47 to Department 101
+successfully added Judge 48 to Department 102
+successfully added Judge 49 to Department 103
+successfully added Judge 50 to Department 104
+successfully added Judge 37 to Department 105
+successfully added Lawyer 76 to Department 106
+successfully added Lawyer 77 to Department 107
+successfully added Lawyer 78 to Department 108
+successfully added Lawyer 79 to Department 109
+successfully added Lawyer 80 to Department 100
+successfully added Lawyer 81 to Department 101
+successfully added Lawyer 82 to Department 102
+successfully added Lawyer 83 to Department 103
+successfully added Lawyer 84 to Department 104
+successfully added Lawyer 85 to Department 105
+successfully added Lawyer 86 to Department 106
+successfully added Lawyer 87 to Department 107
+successfully added Lawyer 88 to Department 108
+successfully added Lawyer 89 to Department 109
+failed to add Lawyer 90 to Department 200
+successfully added Lawyer 91 to Department 101
+successfully added Lawyer 92 to Department 102
+successfully added Lawyer 93 to Department 103
+successfully added Lawyer 94 to Department 104
+failed to add Lawyer 95 to Department 105
+successfully added Lawyer 96 to Department 106
+successfully added Lawyer 97 to Department 107
+successfully added Lawyer 98 to Department 108
+successfully added Lawyer 90 to Department 100
+successfully added Employee 51 to Department 100
+successfully added Employee 52 to Department 101
+successfully added Employee 53 to Department 102
+successfully added Employee 54 to Department 103
+successfully added Employee 55 to Department 104
+successfully added Employee 56 to Department 105
+successfully added Employee 57 to Department 106
+successfully added Employee 58 to Department 107
+successfully added Employee 59 to Department 108
+successfully added Employee 60 to Department 109
+successfully added Employee 61 to Department 100
+successfully added Employee 62 to Department 101
+successfully added Employee 63 to Department 102
+successfully added Employee 64 to Department 103
+failed to add Employee 65 to Department 104
+successfully added Employee 66 to Department 105
+successfully added Employee 67 to Department 106
+successfully added Employee 68 to Department 107
+successfully added Employee 69 to Department 108
+successfully added Employee 70 to Department 109
+successfully added Employee 71 to Department 100
+successfully added Employee 72 to Department 101
+successfully added Employee 73 to Department 102
+successfully added Employee 74 to Department 103
+failed to add Employee 75 to Department 104
+successfully added Employee 51 to Department 105
+successfully added Employee 52 to Department 106
+successfully added Employee 53 to Department 107
+successfully added Employee 54 to Department 108
+successfully added Employee 55 to Department 109
+successfully added Employee 56 to Department 100
+successfully added Employee 57 to Department 101
+successfully added Employee 58 to Department 102
+successfully added Employee 59 to Department 103
+successfully added Employee 60 to Department 104
+successfully added Employee 61 to Department 105
+successfully added Employee 62 to Department 106
+successfully added Employee 51 to Department 107
+successfully added Employee 52 to Department 108
+successfully added Employee 53 to Department 109
+successfully added Employee 54 to Department 100
+successfully added Employee 55 to Department 101
+successfully added Employee 56 to Department 102
+successfully added Employee 57 to Department 103
+successfully added Employee 58 to Department 104
+successfully added Employee 59 to Department 105
+successfully added Employee 60 to Department 106
+successfully added Employee 61 to Department 107
+successfully added Employee 62 to Department 108
+successfully added Employee 63 to Department 109
+successfully added Employee 64 to Department 100
+failed to add Employee 65 to Department 101
+successfully added Employee 66 to Department 102
+successfully added Employee 67 to Department 103
+successfully added Employee 68 to Department 104
+successfully added Employee 69 to Department 105
+successfully added Employee 51 to Department 106
+successfully added Employee 52 to Department 107
+successfully added Employee 53 to Department 108
+successfully added Employee 54 to Department 109
+successfully added Employee 55 to Department 100
+successfully added Employee 56 to Department 101
+successfully added Employee 57 to Department 102
+successfully added Employee 58 to Department 103
+successfully added Employee 59 to Department 104
+successfully added Employee 60 to Department 105
+successfully added Employee 61 to Department 106
+successfully added Employee 62 to Department 107
+successfully added Employee 63 to Department 108
+successfully added Employee 64 to Department 109
+failed to add Employee 65 to Department 100
+successfully added Employee 66 to Department 101
+successfully added Employee 67 to Department 102
+successfully added Employee 68 to Department 103
+successfully added Employee 69 to Department 104
+successfully added Employee 70 to Department 105
+successfully added Employee 71 to Department 106
+successfully added Employee 72 to Department 107
+successfully added Employee 73 to Department 108
+successfully added Employee 74 to Department 109
+failed to add Employee 75 to Department 100
+successfully added witness 520
+successfully added witness 521
+successfully added witness 522
+successfully added witness 523
+successfully added witness 524
+successfully added witness 525
+successfully added witness 526
+successfully added witness 527
+successfully added witness 528
+successfully added witness 529
+successfully added Financial Case f0
+successfully added Financial Case f1
+successfully added Financial Case f2
+successfully added Financial Case f3
+Financial Case details: FinancialCase [Code=f3, Accused=Accused [id =23, FirstName=John, LastName=Henry, BirthDate=Mon Oct 12 00:00:00 IST 1992, Address=5067Kiryat Shmuel, PhoneNumber=+1-551-454-0774x39446, Email=robert82@gmail.com, Gender=F ,job=Mental health nurse], OpenedDate=Sun Jun 19 00:00:00 IDT 2022, CaseType=realEstate, Lawyer=Melissa Velazquez, lossesAmount=15000.75]
+successfully added Financial Case f4
+--------------------------------------------------------------------------------------
+-------------Special properties for the financial case  f4 are -------------
+1)Damaged item : Policy documents
+2)Losses amount : 5000.25
+--------------------------------------------------------------------------------------
+successfully added Criminal Case c5
+successfully added Criminal Case c6
+Criminal Case details: CriminalCase [Code=c6, Accused=Accused [id =25, FirstName=Sharon, LastName=Brooks, BirthDate=Wed Oct 30 00:00:00 IST 1985, Address=32387 Martin Court, PhoneNumber=001-183-214-9882x05975, Email=huffmanmark@hotmail.com, Gender=M ,job=Broadcast presenter], OpenedDate=Sun Mar 10 00:00:00 IST 2024, CaseType=traffic, Lawyer=Traci Douglas, victim=Witness [testimoniesList=[], toString()=id=521, firstName=Sophia, lastName=Brown, birthDate=Mon Oct 20 00:00:00 IST 1997, address=Maple Street, phoneNumber=(411)522-3142, email=sophia.brown@gmail.com, gender=F], crimeScene=Public park crimeTool Crowbar]
+successfully added Criminal Case c7
+successfully added Criminal Case c8
+--------------------------------------------------------------------------------------
+-------------Special properties for the criminal case c8 are -------------
+1)The victim is : Witness [testimoniesList=[], toString()=id=523, firstName=Emma, lastName=Jones, birthDate=Tue Oct 19 00:00:00 IST 1971, address=Pine Blvd, phoneNumber=(411)544-1125, email=emma.jones@outlook.com, gender=F]
+2)The crime scene : Public park
+3)The crime tool : Knife
+--------------------------------------------------------------------------------------
+successfully added Criminal Case c9
+successfully added Family Case m10
+successfully added Family Case m11
+Family Case details: FamilyCase [Code=m11, Accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], OpenedDate=Mon May 08 00:00:00 IDT 2023, CaseType=family, Lawyer=Traci Douglas, victim=Witness [testimoniesList=[], toString()=id=526, firstName=William, lastName=Miller, birthDate=Tue Nov 06 00:00:00 IST 2001, address=Willow Path, phoneNumber=(411)577-8890, email=william.miller@hotmail.com, gender=M] relationType Spouses ]
+successfully added Family Case m12
+successfully added Family Case m13
+successfully added Family Case m14
+--------------------------------------------------------------------------------------
+-------------Special properties for the family case  m14 are -------------
+1)The victim is : Witness [testimoniesList=[], toString()=id=529, firstName=Isabella, lastName=Taylor, birthDate=Sun Dec 20 00:00:00 IST 1987, address= Aspen Circle, phoneNumber=(411)500-4511, email=isabella.taylor@yahoo.com, gender=F]
+2)The relation Type : Sibling 
+--------------------------------------------------------------------------------------
+successfully added courtroom 1001
+successfully added courtroom 1002
+successfully added courtroom 1003
+successfully added courtroom 1004
+successfully added courtroom 1005
+successfully added courtroom 1006
+successfully added courtroom 1007
+successfully added courtroom 1008
+successfully added courtroom 1009
+successfully added courtroom 1010
+successfully added courtroom 1011
+successfully added courtroom 1012
+successfully added courtroom 1013
+successfully added courtroom 1014
+successfully added courtroom 1015
+successfully added courtroom 1016
+successfully added courtroom 1017
+successfully added courtroom 1018
+successfully added courtroom 1019
+successfully added meeting 0
+successfully added meeting 1
+failed to add meeting 2
+successfully added meeting 3
+meeting details: Meeting [meetingID=3, meetingDate=Sat Jun 17 00:00:00 IDT 2023, hour=08:00:00, courtroom=Courtroom [courtroomNumber=1004, department=Corporate Law Department], caseID=f3]
+failed to add meeting 4
+successfully added meeting 5
+successfully added meeting 6
+successfully added meeting 7
+successfully added meeting 8
+failed to add meeting 9
+successfully added meeting 10
+meeting details: Meeting [meetingID=10, meetingDate=Mon May 20 00:00:00 IDT 2024, hour=18:00:00, courtroom=Courtroom [courtroomNumber=1018, department=Civil Rights Department], caseID=c7]
+failed to add meeting 11
+failed to add meeting 12
+successfully added meeting 13
+failed to add meeting 14
+successfully added meeting 15
+successfully added meeting 16
+successfully added meeting 17
+successfully added meeting 18
+successfully added meeting 19
+successfully added meeting 20
+failed to add meeting 21
+successfully added meeting 22
+failed to add meeting 23
+failed to add meeting 24
+successfully added meeting 25
+failed to add meeting 26
+successfully added meeting 27
+failed to add meeting 28
+successfully added meeting 29
+successfully added meeting 30
+successfully added meeting 31
+successfully added verdict 0
+successfully added verdict 1
+successfully added verdict 2
+successfully added verdict 3
+successfully added verdict 4
+successfully added verdict 5
+successfully added verdict 6
+successfully added verdict 7
+successfully added verdict 8
+successfully added verdict 9
+successfully added verdict 10
+successfully added verdict 11
+successfully added verdict 12
+successfully added verdict 13
+successfully added verdict 14
+successfully added appeal 0
+appeal details: Appeal [appealID=0, appealSummary=National produce skill trip herself response stock he country like clear guy course., appealDate=Sat Jul 13 00:00:00 IDT 2024, currentVerdict=0, newVerdict=4]
+successfully added appeal 1
+appeal details: Appeal [appealID=1, appealSummary=Contain remember left list attention serious pick ever choose., appealDate=Fri Apr 01 00:00:00 IDT 2022, currentVerdict=2, newVerdict=1]
+successfully added appeal 2
+appeal details: Appeal [appealID=2, appealSummary=Field join drive arrive particularly boy protect organization., appealDate=Wed Feb 19 00:00:00 IST 2020, currentVerdict=5, newVerdict=3]
+successfully added appeal 3
+appeal details: Appeal [appealID=3, appealSummary=Response fall thousand race history result yourself report fire also property party picture build., appealDate=Fri May 20 00:00:00 IDT 2022, currentVerdict=6, newVerdict=11]
+successfully added appeal 4
+successfully added appeal 5
+successfully added document 0
+successfully added document 1
+successfully added document 2
+successfully added document 3
+successfully added document 4
+successfully added document 5
+successfully added document 6
+successfully added document 7
+successfully added document 8
+successfully added document 9
+successfully added document 10
+successfully added document 11
+successfully added document 12
+successfully added document 13
+successfully added document 14
+successfully added document 15
+successfully added document 16
+successfully added document 17
+successfully added document 18
+successfully added document 19
+successfully added document 20
+successfully added document 21
+successfully added document 22
+successfully added document 23
+successfully added witness 500
+successfully added witness 501
+successfully added witness 502
+successfully added witness 503
+successfully added witness 504
+witness details: Witness [testimoniesList=[], toString()=id=504, firstName=Samantha, lastName=Ray, birthDate=Fri Jun 24 00:00:00 IDT 1994, address=3121 Wallace Roads, phoneNumber=001-736-463-3244x9795, email=kevin79@collier.org, gender=F]
+successfully added witness 505
+Exceptions.PersonAlreadyExistException: James Williams already exists in the system, will not be added again.
+failed to add witness 500
+successfully added witness 506
+successfully added witness 507
+successfully added witness 508
+successfully added witness 509
+successfully added witness 510
+successfully added witness 511
+successfully added witness 512
+successfully added witness 513
+successfully added Testimony 0
+successfully added Testimony 1
+successfully added Testimony 2
+successfully added Testimony 3
+successfully added Testimony 4
+successfully added Testimony 5
+successfully added Testimony 6
+successfully added Testimony 7
+successfully added Testimony 8
+successfully added Testimony 9
+successfully added Testimony 10
+successfully added Testimony 11
+successfully added Testimony 12
+successfully added Testimony 13
+successfully added Testimony 14
+Testimony details: Testimony [testimonyID=14, caseID=c6, testimonyContent=Reflect identify choose million control., witness=508 James]
+successfully added Testimony 15
+successfully added Testimony 16
+successfully added Testimony 17
+successfully added Testimony 18
+successfully added Testimony 19
+successfully added Testimony 20
+successfully added Testimony 21
+successfully added Testimony 22
+successfully added Testimony 23
+successfully added Testimony 24
+successfully removed Department 100
+failed to remove Department 100
+successfully removed Courtroom 1005
+successfully removed Lawyer 79
+successfully removed Lawyer 80
+successfully removed Judge 26
+successfully removed Judge 27
+successfully removed Judge 28
+successfully removed Judge 29
+successfully removed Judge 30
+successfully removed Employee 51
+successfully removed Employee 52
+successfully removed Employee 53
+successfully removed Document 3
+successfully removed Document 1
+successfully removed Document 4
+successfully removed Document 10
+successfully removed Document 12
+successfully removed Verdict 2
+successfully removed Verdict 5
+successfully removed Verdict 3
+successfully removed Testimony 9
+failed to remove Testimony 9
+successfully removed Testimony 7
+successfully removed Witness 500
+successfully removed Witness 502
+successfully removed Accused 3
+successfully removed Accused 4
+successfully removed Accused 5
+failed to remove Meeting 2
+successfully removed Meeting 22
+failed to remove Case 2
+failed to remove Case 14
+
+******************* The courtroom that has the max cases is *******************
+***1)Default function : Courtroom [courtroomNumber=1011, department=Family Law Department]
+***2)With using Stream and Lambda : Courtroom [courtroomNumber=1011, department=Family Law Department]
+
+******************* The amount of cases before Date is *******************
+***1)Default function : 8
+***2)With using Stream and Lambda : 8
+
+******************* Witnesses By Types By Cases *******************
+***1)Default function : 
+Witness: 513
+Case Type: Family Case, Cases: [FamilyCase [Code=m13, Accused=Accused [id =18, FirstName=Emily, LastName=Young, BirthDate=Fri Nov 11 00:00:00 IST 1994, Address=623Carmel Center, PhoneNumber=370-162-5066, Email=cookgary@vargas-jones.biz, Gender=F ,job="Engineer], OpenedDate=Thu Jul 27 00:00:00 IDT 2023, CaseType=family, Lawyer=Melissa Velazquez, victim= relationType Spouses  , Verdict=Verdict [verdictID=4, caseID=m13, verdictSummary=Firm paper attention campaign car Mr be community grow., issusedDate=Thu Mar 28 00:00:00 IST 2024, judge=Douglas Fox]]]
+Witness: 512
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 511
+Case Type: Family Case, Cases: [FamilyCase [Code=m10, Accused=Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant], OpenedDate=Thu Nov 12 00:00:00 IST 2020, CaseType=criminal, Lawyer=Sabrina Sanders, victim= relationType Sibling  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Case Type: Criminal Case, Cases: [CriminalCase [Code=c7, Accused=Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant], OpenedDate=Sun Feb 14 00:00:00 IST 2021, CaseType=criminal, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[], toString()=id=522, firstName=Liam, lastName=Johnson, birthDate=Sat Jan 27 00:00:00 IST 1990, address=Oak Avenue, phoneNumber=(411)533-2214, email=liam.johnson@hotmail.com, gender=M], crimeScene=Abandoned warehouse crimeTool Hammer , Verdict=Verdict [verdictID=13, caseID=c7, verdictSummary=Station ten meeting enough remember act dog impact., issusedDate=Thu Mar 07 00:00:00 IST 2024, judge=Peter Collins]]]
+Witness: 510
+Case Type: Family Case, Cases: [FamilyCase [Code=m10, Accused=Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant], OpenedDate=Thu Nov 12 00:00:00 IST 2020, CaseType=criminal, Lawyer=Sabrina Sanders, victim= relationType Sibling  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Witness: 509
+Witness: 508
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 507
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 506
+Case Type: Family Case, Cases: [FamilyCase [Code=m11, Accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], OpenedDate=Mon May 08 00:00:00 IDT 2023, CaseType=family, Lawyer=Traci Douglas, victim= relationType Spouses  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Witness: 505
+Case Type: Family Case, Cases: [FamilyCase [Code=m13, Accused=Accused [id =18, FirstName=Emily, LastName=Young, BirthDate=Fri Nov 11 00:00:00 IST 1994, Address=623Carmel Center, PhoneNumber=370-162-5066, Email=cookgary@vargas-jones.biz, Gender=F ,job="Engineer], OpenedDate=Thu Jul 27 00:00:00 IDT 2023, CaseType=family, Lawyer=Melissa Velazquez, victim= relationType Spouses  , Verdict=Verdict [verdictID=4, caseID=m13, verdictSummary=Firm paper attention campaign car Mr be community grow., issusedDate=Thu Mar 28 00:00:00 IST 2024, judge=Douglas Fox]]]
+Witness: 504
+Case Type: Family Case, Cases: [FamilyCase [Code=m11, Accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], OpenedDate=Mon May 08 00:00:00 IDT 2023, CaseType=family, Lawyer=Traci Douglas, victim= relationType Spouses  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 503
+Case Type: Financial Case, Cases: [FinancialCase [Code=f0, Accused=Accused [id =5, FirstName=John, LastName=Martinez, BirthDate=Wed Nov 20 00:00:00 IST 2002, Address=6104 Hadar, PhoneNumber=1012991939, Email=opatterson@yahoo.com, Gender=F ,job=Publishing copy], OpenedDate=Tue Nov 21 00:00:00 IST 2023, CaseType=damages, Lawyer=Sabrina Sanders, lossesAmount=10000.0, Verdict=Verdict [verdictID=14, caseID=f0, verdictSummary=Common develop mind name yet analysis., issusedDate=Fri Jun 02 00:00:00 IDT 2023, judge=Rachel Morgan]]]
+Witness: 501
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 529
+Witness: 528
+Witness: 527
+Witness: 526
+Witness: 525
+Witness: 524
+Witness: 523
+Witness: 522
+Witness: 521
+Witness: 520
+***2)With using Stream and Lambda : ***
+Witness: 513
+Case Type: Family Case, Cases: [FamilyCase [Code=m13, Accused=Accused [id =18, FirstName=Emily, LastName=Young, BirthDate=Fri Nov 11 00:00:00 IST 1994, Address=623Carmel Center, PhoneNumber=370-162-5066, Email=cookgary@vargas-jones.biz, Gender=F ,job="Engineer], OpenedDate=Thu Jul 27 00:00:00 IDT 2023, CaseType=family, Lawyer=Melissa Velazquez, victim= relationType Spouses  , Verdict=Verdict [verdictID=4, caseID=m13, verdictSummary=Firm paper attention campaign car Mr be community grow., issusedDate=Thu Mar 28 00:00:00 IST 2024, judge=Douglas Fox]]]
+Witness: 512
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 511
+Case Type: Family Case, Cases: [FamilyCase [Code=m10, Accused=Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant], OpenedDate=Thu Nov 12 00:00:00 IST 2020, CaseType=criminal, Lawyer=Sabrina Sanders, victim= relationType Sibling  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Case Type: Criminal Case, Cases: [CriminalCase [Code=c7, Accused=Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant], OpenedDate=Sun Feb 14 00:00:00 IST 2021, CaseType=criminal, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[], toString()=id=522, firstName=Liam, lastName=Johnson, birthDate=Sat Jan 27 00:00:00 IST 1990, address=Oak Avenue, phoneNumber=(411)533-2214, email=liam.johnson@hotmail.com, gender=M], crimeScene=Abandoned warehouse crimeTool Hammer , Verdict=Verdict [verdictID=13, caseID=c7, verdictSummary=Station ten meeting enough remember act dog impact., issusedDate=Thu Mar 07 00:00:00 IST 2024, judge=Peter Collins]]]
+Witness: 510
+Case Type: Family Case, Cases: [FamilyCase [Code=m10, Accused=Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant], OpenedDate=Thu Nov 12 00:00:00 IST 2020, CaseType=criminal, Lawyer=Sabrina Sanders, victim= relationType Sibling  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Witness: 509
+Witness: 508
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 507
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 506
+Case Type: Family Case, Cases: [FamilyCase [Code=m11, Accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], OpenedDate=Mon May 08 00:00:00 IDT 2023, CaseType=family, Lawyer=Traci Douglas, victim= relationType Spouses  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Witness: 505
+Case Type: Family Case, Cases: [FamilyCase [Code=m13, Accused=Accused [id =18, FirstName=Emily, LastName=Young, BirthDate=Fri Nov 11 00:00:00 IST 1994, Address=623Carmel Center, PhoneNumber=370-162-5066, Email=cookgary@vargas-jones.biz, Gender=F ,job="Engineer], OpenedDate=Thu Jul 27 00:00:00 IDT 2023, CaseType=family, Lawyer=Melissa Velazquez, victim= relationType Spouses  , Verdict=Verdict [verdictID=4, caseID=m13, verdictSummary=Firm paper attention campaign car Mr be community grow., issusedDate=Thu Mar 28 00:00:00 IST 2024, judge=Douglas Fox]]]
+Witness: 504
+Case Type: Family Case, Cases: [FamilyCase [Code=m11, Accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], OpenedDate=Mon May 08 00:00:00 IDT 2023, CaseType=family, Lawyer=Traci Douglas, victim= relationType Spouses  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]]
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 503
+Case Type: Financial Case, Cases: [FinancialCase [Code=f0, Accused=Accused [id =5, FirstName=John, LastName=Martinez, BirthDate=Wed Nov 20 00:00:00 IST 2002, Address=6104 Hadar, PhoneNumber=1012991939, Email=opatterson@yahoo.com, Gender=F ,job=Publishing copy], OpenedDate=Tue Nov 21 00:00:00 IST 2023, CaseType=damages, Lawyer=Sabrina Sanders, lossesAmount=10000.0, Verdict=Verdict [verdictID=14, caseID=f0, verdictSummary=Common develop mind name yet analysis., issusedDate=Fri Jun 02 00:00:00 IDT 2023, judge=Rachel Morgan]]]
+Witness: 501
+Case Type: Financial Case, Cases: [FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]]
+Witness: 529
+Witness: 528
+Witness: 527
+Witness: 526
+Witness: 525
+Witness: 524
+Witness: 523
+Witness: 522
+Witness: 521
+Witness: 520
+
+******************* Unique crime tools found at the crime scene *******************
+***1)Default function : [Crowbar, Knife]
+***2)With using Stream and Lambda : [Crowbar, Knife]
+
+******************* Family Cases With Witnesses From Both Sides *******************
+***1)Default function : ***
+Family Case: FamilyCase [Code=m12, Accused=Accused [id =17, FirstName=Micheal, LastName=Melton, BirthDate=Sat Jan 01 00:00:00 IST 2000, Address=6104 Hadar, PhoneNumber=209.790.2509, Email=powersjessica@hotmail.com, Gender=M ,job="Psychologist], OpenedDate=Mon Jul 24 00:00:00 IDT 2023, CaseType=family, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[Testimony [testimonyID=19, caseID=m12, testimonyContent=Culture win score while young structure society. Your its business she performance., witness=527 Ava]], toString()=id=527, firstName=Ava, lastName=Garcia, birthDate=Thu Sep 10 00:00:00 IDT 1987, address=Birch Close, phoneNumber=(411)588-7741, email=ava.garcia@outlook.com, gender=F] relationType Parent ]
+***2)With using Stream and Lambda : ***
+Family Case: FamilyCase [Code=m12, Accused=Accused [id =17, FirstName=Micheal, LastName=Melton, BirthDate=Sat Jan 01 00:00:00 IST 2000, Address=6104 Hadar, PhoneNumber=209.790.2509, Email=powersjessica@hotmail.com, Gender=M ,job="Psychologist], OpenedDate=Mon Jul 24 00:00:00 IDT 2023, CaseType=family, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[Testimony [testimonyID=19, caseID=m12, testimonyContent=Culture win score while young structure society. Your its business she performance., witness=527 Ava]], toString()=id=527, firstName=Ava, lastName=Garcia, birthDate=Thu Sep 10 00:00:00 IDT 1987, address=Birch Close, phoneNumber=(411)588-7741, email=ava.garcia@outlook.com, gender=F] relationType Parent ]
+
+*** Required Document for case c6: Document [code=8, caseID=c9, title=school week, content=development amount speak, issusedDate=Sat Jan 27 00:00:00 IST 2024]
+*** Required Document for case m11: Document [code=19, caseID=m12, title=leave same, content=system despite early, issusedDate=Sun Jun 25 00:00:00 IDT 2023]
+
+*** Required Case for Lawyer 77 is: FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]
+*** Required Case for Accused 8 is: CriminalCase [Code=c7, Accused=Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant], OpenedDate=Sun Feb 14 00:00:00 IST 2021, CaseType=criminal, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[], toString()=id=522, firstName=Liam, lastName=Johnson, birthDate=Sat Jan 27 00:00:00 IST 1990, address=Oak Avenue, phoneNumber=(411)533-2214, email=liam.johnson@hotmail.com, gender=M], crimeScene=Abandoned warehouse crimeTool Hammer , Verdict=Verdict [verdictID=13, caseID=c7, verdictSummary=Station ten meeting enough remember act dog impact., issusedDate=Thu Mar 07 00:00:00 IST 2024, judge=Peter Collins]]
+
+*** Top 8 Lawyers ***
+Lawyer: Judge [id =31, FirstName=William, LastName=Morse, BirthDate=Tue Oct 13 00:00:00 IST 1987, Address=623Carmel Center, PhoneNumber=+1-136-178-8310x2701, Email=sarahflores@allison.info, Gender=MlicenseNumber= 7581, salary=66279.14ExperienceYear=16]
+Lawyer: Judge [id =32, FirstName=Jessica, LastName=Walker, BirthDate=Thu Jan 21 00:00:00 IST 1988, Address=289  German Colony, PhoneNumber=001-648-191-0121x02462, Email=fsalazar@yahoo.com, Gender=FlicenseNumber= 2179, salary=83453.65ExperienceYear=21]
+Lawyer: Judge [id =33, FirstName=Peter, LastName=Collins, BirthDate=Sun Apr 23 00:00:00 IST 1967, Address=662Downtown Haifa, PhoneNumber=+1-499-236-8065x035, Email=roy72@yahoo.com, Gender=MlicenseNumber= 7413, salary=97059.11ExperienceYear=33]
+Lawyer: Judge [id =34, FirstName=Rachel, LastName=Morgan, BirthDate=Thu Jul 21 00:00:00 IDT 1955, Address=690Kiryat Eliezer, PhoneNumber=001-842-553-1706, Email=qcastaneda@yahoo.com, Gender=FlicenseNumber= 2841, salary=112219.65ExperienceYear=15]
+Lawyer: Judge [id =35, FirstName=Jesus, LastName=Garcia, BirthDate=Tue Apr 10 00:00:00 IST 1962, Address=18469Neve Sha'anan, PhoneNumber=(072)766-9560, Email=michaelgrant@gmail.com, Gender=FlicenseNumber= 2675, salary=111234.36ExperienceYear=19]
+Lawyer: Judge [id =36, FirstName=Adam, LastName=King, BirthDate=Sat Nov 14 00:00:00 IST 1964, Address=5067Kiryat Shmuel, PhoneNumber=+1-636-727-1962x22806, Email=bgay@mcclure-molina.com, Gender=FlicenseNumber= 7753, salary=102697.38ExperienceYear=31]
+Lawyer: Judge [id =37, FirstName=David, LastName=Fuller, BirthDate=Sat Dec 17 00:00:00 IST 1977, Address=59928Ramat HaNasi, PhoneNumber=(722)460-7062x923, Email=paulflores@gmail.com, Gender=MlicenseNumber= 3640, salary=106358.46ExperienceYear=30]
+Lawyer: Judge [id =38, FirstName=Nicole, LastName=Gill, BirthDate=Wed Apr 27 00:00:00 IST 1983, Address=32387 Martin Court Suite 700, PhoneNumber=777.555.8001x0842, Email=dwilliams@hotmail.com, Gender=MlicenseNumber= 6712, salary=78302.6ExperienceYear=29]
+
+*** Sorted Accused ***
+Accused: Accused [id =25, FirstName=Sharon, LastName=Brooks, BirthDate=Wed Oct 30 00:00:00 IST 1985, Address=32387 Martin Court, PhoneNumber=001-183-214-9882x05975, Email=huffmanmark@hotmail.com, Gender=M ,job=Broadcast presenter]
+Accused: Accused [id =24, FirstName=Jenny, LastName=Walker, BirthDate=Mon Sep 08 00:00:00 IDT 2008, Address=59928Ramat HaNasi, PhoneNumber=(786)667-5699x0542, Email=nicole99@gmail.com, Gender=M ,job=Chartered loss adjuster]
+Accused: Accused [id =23, FirstName=John, LastName=Henry, BirthDate=Mon Oct 12 00:00:00 IST 1992, Address=5067Kiryat Shmuel, PhoneNumber=+1-551-454-0774x39446, Email=robert82@gmail.com, Gender=F ,job=Mental health nurse]
+Accused: Accused [id =22, FirstName=Christopher, LastName=Mendez, BirthDate=Sun Apr 21 00:00:00 IDT 1996, Address=18469Neve Sha'anan, PhoneNumber=904.785.4644x44057, Email=wlane@hotmail.com, Gender=F ,job=Prison officer]
+Accused: Accused [id =20, FirstName=Mario, LastName=Miller, BirthDate=Tue Dec 18 00:00:00 IST 1990, Address=662Downtown Haifa, PhoneNumber=692066640, Email=haleandrew@martin.com, Gender=M ,job=Theatre stage manager]
+Accused: Accused [id =19, FirstName=Brian, LastName=Mason, BirthDate=Fri Jul 15 00:00:00 IDT 1988, Address=289  German Colony, PhoneNumber=138-886-2374x668, Email=qramos@berg.com, Gender=F ,job="Editor]
+Accused: Accused [id =18, FirstName=Emily, LastName=Young, BirthDate=Fri Nov 11 00:00:00 IST 1994, Address=623Carmel Center, PhoneNumber=370-162-5066, Email=cookgary@vargas-jones.biz, Gender=F ,job="Engineer]
+Accused: Accused [id =17, FirstName=Micheal, LastName=Melton, BirthDate=Sat Jan 01 00:00:00 IST 2000, Address=6104 Hadar, PhoneNumber=209.790.2509, Email=powersjessica@hotmail.com, Gender=M ,job="Psychologist]
+Accused: Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant]
+Accused: Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant]
+Accused: Accused [id =14, FirstName=Bill, LastName=Mcdowell, BirthDate=Wed Sep 05 00:00:00 IDT 2001, Address=769 Kiara Alley, PhoneNumber=(226)451-8100x365, Email=christina06@gmail.com, Gender=F ,job=Land]
+Accused: Accused [id =13, FirstName=Ryan, LastName=Singh, BirthDate=Fri Aug 22 00:00:00 IDT 1986, Address=32387 Martin Court Suite 700, PhoneNumber=5016245424, Email=leegentry@collier-day.com, Gender=M ,job=Museum/gallery curator]
+Accused: Accused [id =12, FirstName=John, LastName=Gilmore, BirthDate=Sun May 14 00:00:00 IDT 1989, Address=59928Ramat HaNasi, PhoneNumber=336.660.8130x64543, Email=zford@wagner-chan.com, Gender=F ,job=Chartered management accountant]
+Accused: Accused [id =11, FirstName=Russell, LastName=Warren, BirthDate=Sun Apr 14 00:00:00 IDT 1991, Address=5067Kiryat Shmuel, PhoneNumber=(726)446-2066x8816, Email=mcneilterri@hotmail.com, Gender=F ,job=Seismic interpreter]
+Accused: Accused [id =10, FirstName=Allison, LastName=Elliott, BirthDate=Sun Mar 14 00:00:00 IST 1993, Address=18469Neve Sha'anan, PhoneNumber=878.162.2820, Email=vmurray@pearson.org, Gender=F ,job=Careers adviser]
+Accused: Accused [id =9, FirstName=Andrew, LastName=Roman, BirthDate=Sun Feb 12 00:00:00 IST 1995, Address=690Kiryat Eliezer, PhoneNumber=475.514.7693x35633, Email=michael42@yahoo.com, Gender=M ,job=Health and safety inspector]
+Accused: Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant]
+Accused: Accused [id =7, FirstName=Laura, LastName=Neal, BirthDate=Sun Dec 13 00:00:00 IST 1998, Address=289  German Colony, PhoneNumber=001-403-137-9978x0498, Email=stevechandler@marks.com, Gender=F ,job=Jewellery designer]
+Accused: Accused [id =6, FirstName=Richard, LastName=Murphy, BirthDate=Mon Sep 13 00:00:00 IST 2010, Address=623Carmel Center, PhoneNumber=4731895594, Email=madams@williams.com, Gender=M ,job="Sales professional]
+Accused: Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse]
+
+*** Sorted Cases By Opened Date And Meeting Count ***
+Case: CriminalCase [Code=c9, Accused=Accused [id =10, FirstName=Allison, LastName=Elliott, BirthDate=Sun Mar 14 00:00:00 IST 1993, Address=18469Neve Sha'anan, PhoneNumber=878.162.2820, Email=vmurray@pearson.org, Gender=F ,job=Careers adviser], OpenedDate=Mon Dec 04 00:00:00 IST 2023, CaseType=criminal, Lawyer=Brandon Huynh, victim=Witness [testimoniesList=[], toString()=id=524, firstName=Noah, lastName=Smith, birthDate=Fri Jun 24 00:00:00 IDT 1994, address=Elm Road, phoneNumber=(411)555-6789, email=noah.smith@gmail.com, gender=M], crimeScene=Highway roadside crimeTool Hammer , Verdict=Verdict [verdictID=14, caseID=f0, verdictSummary=Common develop mind name yet analysis., issusedDate=Fri Jun 02 00:00:00 IDT 2023, judge=Rachel Morgan]]
+Case: CriminalCase [Code=c8, Accused=Accused [id =9, FirstName=Andrew, LastName=Roman, BirthDate=Sun Feb 12 00:00:00 IST 1995, Address=690Kiryat Eliezer, PhoneNumber=475.514.7693x35633, Email=michael42@yahoo.com, Gender=M ,job=Health and safety inspector], OpenedDate=Mon Jan 23 00:00:00 IST 2023, CaseType=criminal, Lawyer=Melissa Velazquez, victim=Witness [testimoniesList=[], toString()=id=523, firstName=Emma, lastName=Jones, birthDate=Tue Oct 19 00:00:00 IST 1971, address=Pine Blvd, phoneNumber=(411)544-1125, email=emma.jones@outlook.com, gender=F], crimeScene=Public park crimeTool Knife]
+Case: CriminalCase [Code=c6, Accused=Accused [id =25, FirstName=Sharon, LastName=Brooks, BirthDate=Wed Oct 30 00:00:00 IST 1985, Address=32387 Martin Court, PhoneNumber=001-183-214-9882x05975, Email=huffmanmark@hotmail.com, Gender=M ,job=Broadcast presenter], OpenedDate=Sun Mar 10 00:00:00 IST 2024, CaseType=traffic, Lawyer=Traci Douglas, victim=Witness [testimoniesList=[], toString()=id=521, firstName=Sophia, lastName=Brown, birthDate=Mon Oct 20 00:00:00 IST 1997, address=Maple Street, phoneNumber=(411)522-3142, email=sophia.brown@gmail.com, gender=F], crimeScene=Public park crimeTool Crowbar]
+Case: CriminalCase [Code=c5, Accused=Accused [id =24, FirstName=Jenny, LastName=Walker, BirthDate=Mon Sep 08 00:00:00 IDT 2008, Address=59928Ramat HaNasi, PhoneNumber=(786)667-5699x0542, Email=nicole99@gmail.com, Gender=M ,job=Chartered loss adjuster], OpenedDate=Sat Feb 27 00:00:00 IST 2021, CaseType=criminal, Lawyer=Sabrina Sanders, victim=Witness [testimoniesList=[], toString()=id=520, firstName=James, lastName=Williams, birthDate=Tue Nov 06 00:00:00 IST 2001, address=Bianca Port, phoneNumber=(411)501-7193x8940, email=rodgersbetty@yahoo.com, gender=F], crimeScene=Public park crimeTool Knife , Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]
+Case: FamilyCase [Code=m12, Accused=Accused [id =17, FirstName=Micheal, LastName=Melton, BirthDate=Sat Jan 01 00:00:00 IST 2000, Address=6104 Hadar, PhoneNumber=209.790.2509, Email=powersjessica@hotmail.com, Gender=M ,job="Psychologist], OpenedDate=Mon Jul 24 00:00:00 IDT 2023, CaseType=family, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[Testimony [testimonyID=19, caseID=m12, testimonyContent=Culture win score while young structure society. Your its business she performance., witness=527 Ava]], toString()=id=527, firstName=Ava, lastName=Garcia, birthDate=Thu Sep 10 00:00:00 IDT 1987, address=Birch Close, phoneNumber=(411)588-7741, email=ava.garcia@outlook.com, gender=F] relationType Parent ]
+Case: FamilyCase [Code=m13, Accused=Accused [id =18, FirstName=Emily, LastName=Young, BirthDate=Fri Nov 11 00:00:00 IST 1994, Address=623Carmel Center, PhoneNumber=370-162-5066, Email=cookgary@vargas-jones.biz, Gender=F ,job="Engineer], OpenedDate=Thu Jul 27 00:00:00 IDT 2023, CaseType=family, Lawyer=Melissa Velazquez, victim= relationType Spouses  , Verdict=Verdict [verdictID=4, caseID=m13, verdictSummary=Firm paper attention campaign car Mr be community grow., issusedDate=Thu Mar 28 00:00:00 IST 2024, judge=Douglas Fox]]
+Case: FinancialCase [Code=f3, Accused=Accused [id =23, FirstName=John, LastName=Henry, BirthDate=Mon Oct 12 00:00:00 IST 1992, Address=5067Kiryat Shmuel, PhoneNumber=+1-551-454-0774x39446, Email=robert82@gmail.com, Gender=F ,job=Mental health nurse], OpenedDate=Sun Jun 19 00:00:00 IDT 2022, CaseType=realEstate, Lawyer=Melissa Velazquez, lossesAmount=15000.75]
+Case: CriminalCase [Code=c7, Accused=Accused [id =8, FirstName=Amy, LastName=Sellers, BirthDate=Sun Jan 12 00:00:00 IST 1997, Address=662Downtown Haifa, PhoneNumber=564.034.0354x178, Email=wjames@mahoney.com, Gender=M ,job="Accountant], OpenedDate=Sun Feb 14 00:00:00 IST 2021, CaseType=criminal, Lawyer=Ashley Castillo, victim=Witness [testimoniesList=[], toString()=id=522, firstName=Liam, lastName=Johnson, birthDate=Sat Jan 27 00:00:00 IST 1990, address=Oak Avenue, phoneNumber=(411)533-2214, email=liam.johnson@hotmail.com, gender=M], crimeScene=Abandoned warehouse crimeTool Hammer , Verdict=Verdict [verdictID=13, caseID=c7, verdictSummary=Station ten meeting enough remember act dog impact., issusedDate=Thu Mar 07 00:00:00 IST 2024, judge=Peter Collins]]
+Case: FamilyCase [Code=m11, Accused=Accused [id =16, FirstName=Daryl, LastName=Blackwell, BirthDate=Wed Jun 23 00:00:00 IDT 1999, Address=8961German Colony, PhoneNumber=(591)246-5400x66126, Email=thomaslowe@yahoo.com, Gender=F ,job=Politician's assistant], OpenedDate=Mon May 08 00:00:00 IDT 2023, CaseType=family, Lawyer=Traci Douglas, victim= relationType Spouses  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]
+Case: FinancialCase [Code=f2, Accused=Accused [id =3, FirstName=Alexandra, LastName=Dorsey, BirthDate=Sat Oct 03 00:00:00 IST 1992, Address=572 Joshua Valley, PhoneNumber=(261)790-3596x520, Email=sandra89@gonzales-wright.com, Gender=M ,job=Solicitor], OpenedDate=Sat Mar 18 00:00:00 IST 2023, CaseType=damages, Lawyer=Ashley Castillo, lossesAmount=0.0]
+Case: FinancialCase [Code=f1, Accused=Accused [id =2, FirstName=Michelle, LastName=Flores, BirthDate=Fri Jul 18 00:00:00 IDT 2014, Address=769 Kiara Alley, PhoneNumber=+1-216-558-8128x2062, Email=thomasscott@yahoo.com, Gender=M ,job="Nurse], OpenedDate=Tue Apr 21 00:00:00 IDT 2020, CaseType=realEstate, Lawyer=Traci Douglas, lossesAmount=25000.5, Verdict=Verdict [verdictID=11, caseID=f1, verdictSummary=Kind leave ever create myself city friend site operation us few so idea., issusedDate=Fri Jun 23 00:00:00 IDT 2023, judge=William Morse]]
+Case: FinancialCase [Code=f0, Accused=Accused [id =5, FirstName=John, LastName=Martinez, BirthDate=Wed Nov 20 00:00:00 IST 2002, Address=6104 Hadar, PhoneNumber=1012991939, Email=opatterson@yahoo.com, Gender=F ,job=Publishing copy], OpenedDate=Tue Nov 21 00:00:00 IST 2023, CaseType=damages, Lawyer=Sabrina Sanders, lossesAmount=10000.0, Verdict=Verdict [verdictID=14, caseID=f0, verdictSummary=Common develop mind name yet analysis., issusedDate=Fri Jun 02 00:00:00 IDT 2023, judge=Rachel Morgan]]
+Case: FamilyCase [Code=m14, Accused=Accused [id =20, FirstName=Mario, LastName=Miller, BirthDate=Tue Dec 18 00:00:00 IST 1990, Address=662Downtown Haifa, PhoneNumber=692066640, Email=haleandrew@martin.com, Gender=M ,job=Theatre stage manager], OpenedDate=Mon Aug 24 00:00:00 IDT 2020, CaseType=family, Lawyer=Brandon Huynh, victim=Witness [testimoniesList=[], toString()=id=529, firstName=Isabella, lastName=Taylor, birthDate=Sun Dec 20 00:00:00 IST 1987, address= Aspen Circle, phoneNumber=(411)500-4511, email=isabella.taylor@yahoo.com, gender=F] relationType Sibling ]
+Case: FamilyCase [Code=m10, Accused=Accused [id =15, FirstName=Natalie, LastName=Mccormick, BirthDate=Sun Feb 09 00:00:00 IST 2003, Address=572 Joshua Valley, PhoneNumber=(116)825-8582x87776, Email=fsilva@yahoo.com, Gender=F ,job="Accountant], OpenedDate=Thu Nov 12 00:00:00 IST 2020, CaseType=criminal, Lawyer=Sabrina Sanders, victim= relationType Sibling  , Verdict=Verdict [verdictID=12, caseID=m11, verdictSummary=Cost above laugh better option per image., issusedDate=Mon May 01 00:00:00 IDT 2023, judge=Jessica Walker]]
+
+*** Sorted Testimonies By Opened Date And Content ***
+Testimony: Testimony [testimonyID=12, caseID=f1, testimonyContent=Administration difference grow. Magazine weight woman still career research., witness=512 Laura]
+Testimony: Testimony [testimonyID=8, caseID=f1, testimonyContent=Father car big need purpose college. Particular idea property stuff determine provide., witness=508 James]
+Testimony: Testimony [testimonyID=21, caseID=f1, testimonyContent=Term would threat then discover memory much foreign. Suggest sit respond interesting term somebody mother. Remain fact become pattern necessary rule catch., witness=507 Gina]
+Testimony: Testimony [testimonyID=1, caseID=f1, testimonyContent=Clear put young organization president financial. Decide show discover week own black science. Ask popular chance then hope. Town will environmental coach painting., witness=501 James]
+Testimony: Testimony [testimonyID=18, caseID=f1, testimonyContent=Better instead environment middle course stop. Analysis six born. Experience blood serve because.Can fast hundred standard seven attention. Perhaps dinner spend nice show enough little., witness=504 Samantha]
+Testimony: Testimony [testimonyID=6, caseID=m14, testimonyContent=Father car big need purpose college. Particular idea property stuff determine provide., witness=506 Stefanie]
+Testimony: Testimony [testimonyID=11, caseID=m10, testimonyContent=Network son city. International whether risk off. Affect better military stop gas security., witness=511 Kristin]
+Testimony: Testimony [testimonyID=24, caseID=m10, testimonyContent=Doctor model various.Today movement turn growth. Happy lot that nice shake.Discover want continue under. Professor mission water study. Always factor woman outside catch others., witness=510 Isaiah]
+Testimony: Testimony [testimonyID=22, caseID=c7, testimonyContent=Name team team beyond else small interview. Radio read detail government think around feeling., witness=511 Kristin]
+Testimony: Testimony [testimonyID=23, caseID=c8, testimonyContent=Owner sea region military low. Trip kitchen book reach.Eat ball live pretty. Outside blood mother range and TV. Machine how fill media use instead which. Serve traditional write like understand., witness=509 Jeffery]
+Testimony: Testimony [testimonyID=15, caseID=f2, testimonyContent=So spring everything. Evidence order energy pressure next win., witness=501 James]
+Testimony: Testimony [testimonyID=10, caseID=f2, testimonyContent=Should painting court growth girl sit give theory. Activity get stage visit be what. Clear which strategy realize either happy wonder., witness=510 Isaiah]
+Testimony: Testimony [testimonyID=3, caseID=f2, testimonyContent=Clear put young organization president financial. Decide show discover week own black science. Ask popular chance then hope. Town will environmental coach painting., witness=504 Samantha]
+Testimony: Testimony [testimonyID=4, caseID=m11, testimonyContent=Father scientist amount factor, witness=504 Samantha]
+Testimony: Testimony [testimonyID=20, caseID=m11, testimonyContent=Imagine industry exactly catch bank knowledge method.Friend ahead family degree. College technology each however program policy. Fill go police expert lose., witness=506 Stefanie]
+Testimony: Testimony [testimonyID=19, caseID=m12, testimonyContent=Culture win score while young structure society. Your its business she performance., witness=527 Ava]
+Testimony: Testimony [testimonyID=5, caseID=m13, testimonyContent=Stop spring moment bank party. Every several financial I successful first. Reflect identify choose million control., witness=505 Tina]
+Testimony: Testimony [testimonyID=13, caseID=m13, testimonyContent=Term would threat then discover memory much foreign. Suggest sit respond interesting term somebody mother. Remain fact become pattern necessary rule catch., witness=513 John]
+Testimony: Testimony [testimonyID=17, caseID=f0, testimonyContent=Our collection threat safe. Far lose shake up not style. Style point occur sing stuff film.Deep only rock into skill woman open. Body course minute expect tree., witness=503 Alyssa]
+Testimony: Testimony [testimonyID=14, caseID=c6, testimonyContent=Reflect identify choose million control., witness=508 James]
+
